@@ -48,10 +48,10 @@
       parameter (NumNPD=1001,
      !           NMatD =20,
      !           NTabD =100,
-     !           NObsD =100,
-     !           NSD   =11,
-     !           NUnitD=7,
-     !           NPD   =1000)
+     !           NObsD =10000,
+     !           NSD   =110,
+     !           NUnitD=70,
+     !           NPD   =10000)
 
       integer PLevel,Alevel,TLevel,err
       logical SinkF,WLayer,qGWLF,TopInF,ShortO,lWat,lChem,lTemp,ConvgF,
